@@ -1,0 +1,11 @@
+{
+    "name": "valdaspuzaitis/traveling_salesman",
+    "description": "Brute-force script for calculating best solution for traveling salesman problem.",
+    "keywords": [],
+    "type": "script",
+    "autoload": {
+        "psr-4": {    
+            "Src\\": "src"
+        }
+    }
+}
